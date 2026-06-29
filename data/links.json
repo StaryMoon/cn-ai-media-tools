@@ -1,0 +1,60 @@
+{
+  "title": "AI 图片、视频与音频生成工具",
+  "slug": "ai-media-tools",
+  "category": "AI / 生成",
+  "audience": "做短视频、演示图、产品宣传、视觉实验的人",
+  "hero_url": "https://runwayml.com/",
+  "summary": "整理主流 AI 生成媒体工具：视频、图片、音乐、语音和本地工作流。",
+  "why_hot": "AI 生成内容天然有传播性，工具变化快，中文整理贴有持续更新价值。",
+  "entries": [
+    [
+      "Runway",
+      "https://runwayml.com/",
+      "AI 视频生成和编辑平台。"
+    ],
+    [
+      "Pika",
+      "https://pika.art/",
+      "AI 视频生成平台。"
+    ],
+    [
+      "Luma Dream Machine",
+      "https://lumalabs.ai/dream-machine",
+      "视频生成模型入口。"
+    ],
+    [
+      "Kling AI",
+      "https://klingai.com/",
+      "视频生成工具。"
+    ],
+    [
+      "ComfyUI",
+      "https://github.com/comfyanonymous/ComfyUI",
+      "节点式本地 Stable Diffusion 工作流。"
+    ],
+    [
+      "AUTOMATIC1111",
+      "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "经典 Stable Diffusion WebUI。"
+    ],
+    [
+      "ElevenLabs",
+      "https://elevenlabs.io/",
+      "AI 语音生成。"
+    ],
+    [
+      "Suno",
+      "https://suno.com/",
+      "AI 音乐生成。"
+    ]
+  ],
+  "quick_start": [
+    "商业项目先查授权。",
+    "本地生成优先试 ComfyUI 工作流。",
+    "视频工具先用免费额度做风格验证。"
+  ],
+  "pitfalls": [
+    "不要上传敏感人脸和未授权素材。",
+    "AI 生成内容用于公开传播时要注意平台规则。"
+  ]
+}
